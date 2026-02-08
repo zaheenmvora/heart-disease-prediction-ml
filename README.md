@@ -22,7 +22,7 @@ This project follows a structured, reproducible ML workflow suitable for healthc
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 Dataset → Preprocessing → Train-Test Split → Model Training → Model Evaluation → Manual Prediction
 
@@ -30,7 +30,7 @@ The design is modular and easily extendable for future improvements.
 
 ---
 
-## 📦 Dataset Description
+##  Dataset Description
 
 The dataset contains patient-level clinical attributes:
 
@@ -51,7 +51,7 @@ The dataset contains patient-level clinical attributes:
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 ### 🔹 Problem Type
 Binary Classification
@@ -89,7 +89,7 @@ Model performance is evaluated using:
 
 ---
 
-## 🎯 Prediction Workflow
+##  Prediction Workflow
 
 After training, the system accepts manual patient input via terminal.
 
@@ -119,7 +119,7 @@ The person HAS Heart Disease
 
 ---
 
-## 📸 Terminal Screenshots
+##  Terminal Screenshots
 
 ### 🔹 Model Training Output
 
@@ -133,7 +133,7 @@ Make sure screenshots are placed inside an `assets/` folder.
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 heart-disease-prediction/
 
@@ -150,7 +150,7 @@ README.md
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository:
 
@@ -168,7 +168,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🏋️ Running the Project
+##  Running the Project
 
 Train the model and perform prediction:
 
@@ -183,7 +183,7 @@ The script will:
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 
 - Train-Test Split: 80–20  
 - Logistic Regression Classifier  
@@ -205,7 +205,7 @@ This demonstrates the feasibility of predictive modeling using structured health
 
 ---
 
-## 💡 Key ML Concepts Demonstrated
+##  Key ML Concepts Demonstrated
 
 - Supervised Learning  
 - Binary Classification  
@@ -218,7 +218,7 @@ This demonstrates the feasibility of predictive modeling using structured health
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Random Forest / XGBoost comparison  
 - Cross-validation (K-Fold)  
@@ -248,6 +248,7 @@ MIT License
 Zaheen M Vora
 
 Computer Engineering Student | Aspiring Data Science and ML Engineer
+
 
 
 
